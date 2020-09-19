@@ -1,4 +1,4 @@
-# learn-jam
+# learn jam
 This is a test for learning.
 
 ## Thanks to SGDC
